@@ -1,22 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Video 1.10 minutos",
-      "day": "Agosto 5 a las 12:00",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Hacer la aplicacion de Task",
-      "day": "Agosto 5 a las 17:00",
-      "reminder": true
-    },
-    {
       "text": "Terminar el programa",
-      "day": "hoy",
+      "day": "hoy 20hs",
       "reminder": false,
-      "id": 3
+      "id": 2
     }
   ]
 }

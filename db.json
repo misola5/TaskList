@@ -1,29 +1,22 @@
 {
-    "tasks":[
-        {
-            "id": 1,
-            "text": "Video 1.10 minutos",
-            "day": "Agosto 5 a las 12:00",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Hacer la aplicacion de Task",
-            "day": "Agosto 5 a las 17:00",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Leer sobre Bootstrap",
-            "day": "Agosto 5 a las 19:00",
-            "reminder": false
-        },
-        {
-            "id": 4,
-            "text": "Anda la Base de datos",
-            "day": "Agosto 5 a las 21:00",
-            "reminder": false
-        }
-
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Video 1.10 minutos",
+      "day": "Agosto 5 a las 12:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Hacer la aplicacion de Task",
+      "day": "Agosto 5 a las 17:00",
+      "reminder": true
+    },
+    {
+      "text": "Terminar el programa",
+      "day": "hoy",
+      "reminder": false,
+      "id": 3
+    }
+  ]
 }

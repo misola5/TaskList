@@ -5,6 +5,18 @@
       "day": "hoy 20hs",
       "reminder": false,
       "id": 2
+    },
+    {
+      "text": "Seguir estudiando",
+      "day": "mañana",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Acordarme de todo o releerlo",
+      "day": "pasado",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
